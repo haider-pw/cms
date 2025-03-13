@@ -1,24 +1,25 @@
 # content/navigation/mega-menu.yml
-categories:
-  - title: Products
+title: Main Navigation
+structure:
+  - label: Products
     columns:
-      - title: Featured
+      - title: Featured Products
         links:
           - label: New Arrivals
-            to: /products/new
+            path: /products/new
           - label: Best Sellers
-            to: /products/best-sellers
+            path: /products/best
       - title: Categories
         links:
           - label: Category A
-            to: /products/category-a
+            path: /products/category-a
           - label: Category B
-            to: /products/category-b
-  - title: Solutions
+            path: /products/category-b
+  - label: Services
     columns:
-      - title: By Industry
+      - title: Our Services
         links:
-          - label: Healthcare
-            to: /solutions/healthcare
-          - label: Finance
-            to: /solutions/finance
+          - label: Consulting
+            path: /services/consulting
+          - label: Support
+            path: /services/support

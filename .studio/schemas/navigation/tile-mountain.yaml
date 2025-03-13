@@ -1,0 +1,49 @@
+# .studio/schemas/navigation.yaml
+title: Navigation
+description: Navigation structure for the site
+icon: i-heroicons-bars-3
+extension: yml
+category: Navigation
+
+fields:
+  title:
+    type: string
+    description: Navigation title
+    required: true
+
+  structure:
+    type: array
+    description: Menu categories
+    items:
+      type: object
+      fields:
+        label:
+          type: string
+          description: Category label
+          required: true
+
+        columns:
+          type: array
+          description: Menu columns
+          items:
+            type: object
+            fields:
+              title:
+                type: string
+                description: Column title
+                required: true
+
+              links:
+                type: array
+                description: Column links
+                items:
+                  type: object
+                  fields:
+                    label:
+                      type: string
+                      description: Link label
+                      required: true
+                    path:
+                      type: string
+                      description: Link path
+                      required: true
