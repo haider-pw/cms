@@ -1,0 +1,1405 @@
+[
+  {
+    "title": "Main",
+    "_path": "/walls_and_floors/navigation/main",
+    "children": [
+      {
+        "title": "All Tiles",
+        "_path": "/walls_and_floors/navigation/main/001_all_tiles",
+        "children": [
+          {
+            "title": "Popular Tiles",
+            "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles",
+            "children": [
+              {
+                "title": "Bathroom",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/001_bathroom_tiles",
+                "slug": "/bathroom-tiles"
+              },
+              {
+                "title": "Brick Effect",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/002_brick_slips",
+                "slug": "/brick-slips"
+              },
+              {
+                "title": "Ceramic",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/003_ceramic_tiles",
+                "slug": "/ceramic-tiles"
+              },
+              {
+                "title": "Concrete Effect",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/004_concrete_effect_tiles",
+                "slug": "/concrete-effect-tiles"
+              },
+              {
+                "title": "Fireplace",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/005_fireplace_tiles",
+                "slug": "/fireplace-tiles"
+              },
+              {
+                "title": "Gloss",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/006_gloss_tiles",
+                "slug": "/gloss-tiles"
+              },
+              {
+                "title": "Herringbone",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/007_herringbone_tiles",
+                "slug": "/herringbone-tiles"
+              },
+              {
+                "title": "Hexagon",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/008_hexagon_tiles",
+                "slug": "/hexagon-tiles"
+              },
+              {
+                "title": "Kitchen",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/009_kitchen_tiles",
+                "slug": "/kitchen-tiles"
+              },
+              {
+                "title": "Large",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_popular_tiles/0010_large_format_tiles",
+                "slug": "/large-format-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Marble Effect",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_marble_effect_tiles",
+                "slug": "/marble-effect-tiles"
+              },
+              {
+                "title": "Matt",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/002_matt_tiles",
+                "slug": "/matt-tiles"
+              },
+              {
+                "title": "Metro",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/003_brick_metro_tiles",
+                "slug": "/brick-metro-tiles"
+              },
+              {
+                "title": "Moroccan",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_moroccan_tiles",
+                "slug": "/moroccan-tiles"
+              },
+              {
+                "title": "Mosaic",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/005_mosaic_tiles",
+                "slug": "/mosaic-tiles"
+              },
+              {
+                "title": "Natural Stone",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/006_natural_stone_tiles",
+                "slug": "/natural-stone-tiles"
+              },
+              {
+                "title": "Outdoor",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/007_external_outdoor_tiles",
+                "slug": "/external-outdoor-tiles"
+              },
+              {
+                "title": "Pattern",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/008_pattern_tiles",
+                "slug": "/pattern-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Porcelain Paving",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/001_paving_slabs",
+                "slug": "/paving-slabs"
+              },
+              {
+                "title": "Porcelain",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/002_porcelain_tiles",
+                "slug": "/porcelain-tiles"
+              },
+              {
+                "title": "Quarry",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/003_quarry_tiles",
+                "slug": "/quarry-tiles"
+              },
+              {
+                "title": "Quartz",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_quartz_tiles",
+                "slug": "/quartz-tiles"
+              },
+              {
+                "title": "Split Face",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/005_split_face_tiles",
+                "slug": "/split-face-tiles"
+              },
+              {
+                "title": "Stone Effect",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/006_stone_effect_tiles",
+                "slug": "/stone-effect-tiles"
+              },
+              {
+                "title": "Swimming Pool & Spa",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/007_swimming_pool_tiles",
+                "slug": "/swimming-pool-tiles"
+              },
+              {
+                "title": "Terrazzo Effect",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/008_terrazzo_tiles",
+                "slug": "/terrazzo-tiles"
+              },
+              {
+                "title": "Travertine Effect",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/009_travertine_effect_tiles",
+                "slug": "/travertine-effect-tiles"
+              },
+              {
+                "title": "Victorian",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/0010_victorian_tiles",
+                "slug": "/victorian-tiles"
+              },
+              {
+                "title": "Wood Effect",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/0011_wood_effect_tiles",
+                "slug": "/wood-effect-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Tiles by Colour",
+            "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color",
+            "children": [
+              {
+                "title": "Black & White",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color/001_black_white_tiles",
+                "slug": "/black-white-tiles"
+              },
+              {
+                "title": "Black",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color/002_black_tiles",
+                "slug": "/black-tiles"
+              },
+              {
+                "title": "Blue",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color/003_blue_tiles",
+                "slug": "/blue-tiles"
+              },
+              {
+                "title": "Cream",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color/004_cream_tiles",
+                "slug": "/cream-tiles"
+              },
+              {
+                "title": "Green",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color/005_green_tiles",
+                "slug": "/green-tiles"
+              },
+              {
+                "title": "Grey",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color/006_grey_tiles",
+                "slug": "/grey-tiles"
+              },
+              {
+                "title": "Pink",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color/007_pink_tiles",
+                "slug": "/pink-tiles"
+              },
+              {
+                "title": "White",
+                "_path": "/walls_and_floors/navigation/main/001_all_tiles/004_by_color/008_white_tiles",
+                "slug": "/white-tiles"
+              }
+            ],
+            "slug": null
+          }
+        ],
+        "slug": "/all-tiles",
+        "hasMegaMenu": true,
+        "banner": {
+          "image": "/images/content/walls_and_floors/navigation/main/All-tiles.jpg",
+          "title": "All Tiles",
+          "link": "/greenwich-ceramic-gloss-green-metro-tiles"
+        }
+      },
+      {
+        "title": "Wall",
+        "_path": "/walls_and_floors/navigation/main/002_wall_tiles",
+        "children": [
+          {
+            "title": "Popular Tiles",
+            "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles",
+            "children": [
+              {
+                "title": "Bathroom",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles/001_bathroom_wall_tiles",
+                "slug": "/bathroom-wall-tiles"
+              },
+              {
+                "title": "Brick Effect",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles/002_brick_tiles",
+                "slug": "/brick-tiles"
+              },
+              {
+                "title": "Ceramic",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles/003_ceramic_wall_tiles",
+                "slug": "/ceramic-wall-tiles"
+              },
+              {
+                "title": "Cheap",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles/004_cheap_wall_tiles",
+                "slug": "/cheap-wall-tiles"
+              },
+              {
+                "title": "Feature",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles/005_feature_wall_tiles",
+                "slug": "/feature-wall-tiles"
+              },
+              {
+                "title": "Glass",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles/006_glass_mosaic_glass_tiles",
+                "slug": "/glass-mosaic-glass-tiles"
+              },
+              {
+                "title": "Hexagon",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles/007_hexagon_wall_tiles",
+                "slug": "/hexagon-wall-tiles"
+              },
+              {
+                "title": "Kitchen",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_popular_tiles/008_kitchen_wall_tiles",
+                "slug": "/kitchen-wall-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Large",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_large_wall_tiles",
+                "slug": "/large-wall-tiles"
+              },
+              {
+                "title": "Living Room",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/002_living_room_wall_tiles",
+                "slug": "/living-room-wall-tiles"
+              },
+              {
+                "title": "Marble Effect",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/003_marble_wall_tiles",
+                "slug": "/marble-wall-tiles"
+              },
+              {
+                "title": "Metro",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_brick_metro_tiles",
+                "slug": "/brick-metro-tiles"
+              },
+              {
+                "title": "Mosaic",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/005_mosaic_wall_tiles",
+                "slug": "/mosaic-wall-tiles"
+              },
+              {
+                "title": "Patterned",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/006_patterned_wall_tiles",
+                "slug": "/patterned-wall-tiles"
+              },
+              {
+                "title": "Porcelain",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/007_porcelain_wall_tiles",
+                "slug": "/porcelain-wall-tiles"
+              },
+              {
+                "title": "Quartz",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/008_quartz_tiles",
+                "slug": "/quartz-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Slate Effect",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/001_slate_effect_wall_tiles",
+                "slug": "/slate-effect-wall-tiles"
+              },
+              {
+                "title": "Split Face",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/002_split_face_tiles",
+                "slug": "/split-face-tiles"
+              },
+              {
+                "title": "Stone Effect",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/003_stone_effect_wall_tiles",
+                "slug": "/stone-effect-wall-tiles"
+              },
+              {
+                "title": "Victorian",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_victorian_wall_tiles",
+                "slug": "/victorian-wall-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Tiles by Colour",
+            "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color",
+            "children": [
+              {
+                "title": "Beige",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color/001_beige_wall_tiles",
+                "slug": "/beige-wall-tiles"
+              },
+              {
+                "title": "Black",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color/002_black_wall_tiles",
+                "slug": "/black-wall-tiles"
+              },
+              {
+                "title": "Blue",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color/003_blue_wall_tiles",
+                "slug": "/blue-wall-tiles"
+              },
+              {
+                "title": "Cream",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color/004_cream_wall_tiles",
+                "slug": "/cream-wall-tiles"
+              },
+              {
+                "title": "Green",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color/005_green_wall_tiles",
+                "slug": "/green-wall-tiles"
+              },
+              {
+                "title": "Grey",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color/006_grey_wall_tiles",
+                "slug": "/grey-wall-tiles"
+              },
+              {
+                "title": "Pink",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color/007_pink_wall_tiles",
+                "slug": "/pink-wall-tiles"
+              },
+              {
+                "title": "White",
+                "_path": "/walls_and_floors/navigation/main/002_wall_tiles/004_by_color/008_white_wall_tiles",
+                "slug": "/white-wall-tiles"
+              }
+            ],
+            "slug": null
+          }
+        ],
+        "slug": "/wall-tiles",
+        "hasMegaMenu": true,
+        "banner": {
+          "image": "/images/content/walls_and_floors/navigation/main/wall.jpg",
+          "title": "Wall",
+          "link": "/victoria-ceramic-gloss-cream-mini-metro-tiles"
+        }
+      },
+      {
+        "title": "Floor",
+        "_path": "/walls_and_floors/navigation/main/003_floor_tiles",
+        "children": [
+          {
+            "title": "Popular Tiles",
+            "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles",
+            "children": [
+              {
+                "title": "Anti Slip Tiles",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles/001_anti_slip_tiles",
+                "slug": "/anti-slip-tiles"
+              },
+              {
+                "title": "Bathroom",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles/002_bathroom_floor_tiles",
+                "slug": "/bathroom-floor-tiles"
+              },
+              {
+                "title": "Ceramic",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles/003_ceramic_floor_tiles",
+                "slug": "/ceramic-floor-tiles"
+              },
+              {
+                "title": "Cheap",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles/004_cheap_floor_tiles",
+                "slug": "/cheap-floor-tiles"
+              },
+              {
+                "title": "Concrete Effect",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles/005_concrete_effect_tiles",
+                "slug": "/concrete-effect-tiles"
+              },
+              {
+                "title": "Hallway",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles/006_hall_floor_tiles",
+                "slug": "/hall-floor-tiles"
+              },
+              {
+                "title": "Hexagon",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles/007_hexagon_floor_tiles",
+                "slug": "/hexagon-floor-tiles"
+              },
+              {
+                "title": "Kitchen",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_popular_tiles/008_kitchen_floor_tiles",
+                "slug": "/kitchen-floor-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Large",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_large_floor_tiles",
+                "slug": "/large-floor-tiles"
+              },
+              {
+                "title": "Marble Effect",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/002_marble_floor_tiles",
+                "slug": "/marble-floor-tiles"
+              },
+              {
+                "title": "Mosaic",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/003_mosaic_floor_tiles",
+                "slug": "/mosaic-floor-tiles"
+              },
+              {
+                "title": "Patterned",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_patterned_floor_tiles",
+                "slug": "/patterned-floor-tiles"
+              },
+              {
+                "title": "Porcelain",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/005_porcelain_floor_tiles",
+                "slug": "/porcelain-floor-tiles"
+              },
+              {
+                "title": "Quarry",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/006_quarry_tiles",
+                "slug": "/quarry-tiles"
+              },
+              {
+                "title": "Quartz",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/007_quartz_tiles",
+                "slug": "/quartz-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Slate Effect",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/001_slate_effect_floor_tiles",
+                "slug": "/slate-effect-floor-tiles"
+              },
+              {
+                "title": "Stone Effect",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/002_stone_effect_floor_tiles",
+                "slug": "/stone-effect-floor-tiles"
+              },
+              {
+                "title": "Terrazzo",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/003_terrazzo_floor_tiles",
+                "slug": "/terrazzo-floor-tiles"
+              },
+              {
+                "title": "Victorian",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_victorian_floor_tiles",
+                "slug": "/victorian-floor-tiles"
+              },
+              {
+                "title": "Wood Effect",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/005_wood_effect_tiles",
+                "slug": "/wood-effect-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Tiles by Colour",
+            "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_by_color",
+            "children": [
+              {
+                "title": "Beige",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_by_color/001_beige_floor_tiles",
+                "slug": "/beige-floor-tiles"
+              },
+              {
+                "title": "Black & White",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_by_color/002_black_and_white_floor_tiles",
+                "slug": "/black-and-white-floor-tiles"
+              },
+              {
+                "title": "Black",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_by_color/003_black_floor_tiles",
+                "slug": "/black-floor-tiles"
+              },
+              {
+                "title": "Cream",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_by_color/004_cream_floor_tiles",
+                "slug": "/cream-floor-tiles"
+              },
+              {
+                "title": "Grey",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_by_color/005_grey_floor_tiles",
+                "slug": "/grey-floor-tiles"
+              },
+              {
+                "title": "Pink",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_by_color/006_pink_floor_tiles",
+                "slug": "/pink-floor-tiles"
+              },
+              {
+                "title": "White",
+                "_path": "/walls_and_floors/navigation/main/003_floor_tiles/004_by_color/007_white_floor_tiles",
+                "slug": "/white-floor-tiles"
+              }
+            ],
+            "slug": null
+          }
+        ],
+        "slug": "/floor-tiles",
+        "hasMegaMenu": true,
+        "banner": {
+          "image": "/images/content/walls_and_floors/navigation/main/floor.jpg",
+          "title": "Floor",
+          "link": "/pattern-tiles"
+        }
+      },
+      {
+        "title": "Bathroom",
+        "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles",
+        "children": [
+          {
+            "title": "Popular Tiles",
+            "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_popular_tiles",
+            "children": [
+              {
+                "title": "Floor",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_popular_tiles/001_bathroom_floor_tiles",
+                "slug": "/bathroom-floor-tiles"
+              },
+              {
+                "title": "Metro",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_popular_tiles/002_brick_metro_tiles",
+                "slug": "/brick-metro-tiles"
+              },
+              {
+                "title": "Wall",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_popular_tiles/003_bathroom_wall_tiles",
+                "slug": "/bathroom-wall-tiles"
+              },
+              {
+                "title": "Ceramic",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_popular_tiles/004_ceramic_tiles",
+                "slug": "/ceramic-tiles"
+              },
+              {
+                "title": "Cheap",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_popular_tiles/005_cheap_bathroom_tiles",
+                "slug": "/cheap-bathroom-tiles"
+              },
+              {
+                "title": "Concrete Effect",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_popular_tiles/006_concrete_effect_tiles",
+                "slug": "/concrete-effect-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Designer",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_designer_tiles",
+                "slug": "/designer-tiles"
+              },
+              {
+                "title": "Hexagon",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/002_hexagon_tiles",
+                "slug": "/hexagon-tiles"
+              },
+              {
+                "title": "Large",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/003_large_bathroom_tiles",
+                "slug": "/large-bathroom-tiles"
+              },
+              {
+                "title": "Marble",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_marble_bathroom_tiles",
+                "slug": "/marble-bathroom-tiles"
+              },
+              {
+                "title": "Moroccan",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/005_moroccan_bathroom_tiles",
+                "slug": "/moroccan-bathroom-tiles"
+              },
+              {
+                "title": "Mosaic",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/006_mosaic_tiles",
+                "slug": "/mosaic-tiles"
+              },
+              {
+                "title": "Non Slip Tiles",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/007_anti_slip_tiles",
+                "slug": "/anti-slip-tiles"
+              },
+              {
+                "title": "Quartz",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/008_quartz_tiles",
+                "slug": "/quartz-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Patterned",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/001_pattern_tiles",
+                "slug": "/pattern-tiles"
+              },
+              {
+                "title": "Porcelain",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/002_porcelain_tiles",
+                "slug": "/porcelain-tiles"
+              },
+              {
+                "title": "Slate Effect",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/003_slate_effect_tiles",
+                "slug": "/slate-effect-tiles"
+              },
+              {
+                "title": "Stone Effect",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_stone_effect_tiles",
+                "slug": "/stone-effect-tiles"
+              },
+              {
+                "title": "Terrazzo",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/005_terrazzo_tiles",
+                "slug": "/terrazzo-tiles"
+              },
+              {
+                "title": "Victorian",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/006_victorian_tiles",
+                "slug": "/victorian-tiles"
+              },
+              {
+                "title": "Wetroom",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/007_wetroom",
+                "slug": "/wetroom"
+              },
+              {
+                "title": "Wood Effect",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/008_wood_effect_tiles",
+                "slug": "/wood-effect-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Tiles by Colour",
+            "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_by_color",
+            "children": [
+              {
+                "title": "Beige",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_by_color/001_beige_tiles",
+                "slug": "/beige-tiles"
+              },
+              {
+                "title": "Black",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_by_color/002_black_tiles",
+                "slug": "/black-tiles"
+              },
+              {
+                "title": "Blue",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_by_color/003_blue_tiles",
+                "slug": "/blue-tiles"
+              },
+              {
+                "title": "Green",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_by_color/004_green_tiles",
+                "slug": "/green-tiles"
+              },
+              {
+                "title": "Grey",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_by_color/005_grey_tiles",
+                "slug": "/grey-tiles"
+              },
+              {
+                "title": "Pink",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_by_color/006_pink_tiles",
+                "slug": "/pink-tiles"
+              },
+              {
+                "title": "White",
+                "_path": "/walls_and_floors/navigation/main/004_bathroom_tiles/004_by_color/007_white_tiles",
+                "slug": "/white-tiles"
+              }
+            ],
+            "slug": null
+          }
+        ],
+        "slug": "/bathroom-tiles",
+        "hasMegaMenu": true,
+        "banner": {
+          "image": "/images/content/walls_and_floors/navigation/main/Bathroom.jpg",
+          "title": "Bathroom",
+          "link": "/matt-carrara-marble-effect-60x30-tiles"
+        }
+      },
+      {
+        "title": "Kitchen",
+        "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles",
+        "children": [
+          {
+            "title": "Popular Tiles",
+            "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_popular_tiles",
+            "children": [
+              {
+                "title": "Ceramic",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_popular_tiles/001_ceramic_tiles",
+                "slug": "/ceramic-tiles"
+              },
+              {
+                "title": "Cheap",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_popular_tiles/002_cheap_kitchen_tiles",
+                "slug": "/cheap-kitchen-tiles"
+              },
+              {
+                "title": "Concrete",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_popular_tiles/003_concrete_effect_tiles",
+                "slug": "/concrete-effect-tiles"
+              },
+              {
+                "title": "Gloss",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_popular_tiles/004_gloss_tiles",
+                "slug": "/gloss-tiles"
+              },
+              {
+                "title": "Hexagon",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_popular_tiles/005_hexagon_tiles",
+                "slug": "/hexagon-tiles"
+              },
+              {
+                "title": "Floor",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_popular_tiles/006_kitchen_floor_tiles",
+                "slug": "/kitchen-floor-tiles"
+              },
+              {
+                "title": "Wall",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_popular_tiles/005_kitchen_wall_tiles",
+                "slug": "/kitchen-wall-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Large",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_large_kitchen_tiles",
+                "slug": "/large-kitchen-tiles"
+              },
+              {
+                "title": "Marble Effect",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/002_marble_effect_tiles",
+                "slug": "/marble-effect-tiles"
+              },
+              {
+                "title": "Matt",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_matt_tiles",
+                "slug": "/matt-tiles"
+              },
+              {
+                "title": "Metro",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/004_brick_metro_tiles",
+                "slug": "/brick-metro-tiles"
+              },
+              {
+                "title": "Moroccan",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/005_moroccan_tiles",
+                "slug": "/moroccan-tiles"
+              },
+              {
+                "title": "Non Slip",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/006_anti_slip_tiles",
+                "slug": "/anti-slip-tiles"
+              },
+              {
+                "title": "Patterned",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/007_pattern_tiles",
+                "slug": "/pattern-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Porcelain",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/001_porcelain_tiles",
+                "slug": "/porcelain-tiles"
+              },
+              {
+                "title": "Quartz",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/002_quartz_tiles",
+                "slug": "/quartz-tiles"
+              },
+              {
+                "title": "Small",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_small_tiles",
+                "slug": "/small-tiles"
+              },
+              {
+                "title": "Stone Effect",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/004_stone_effect_tiles",
+                "slug": "/stone-effect-tiles"
+              },
+              {
+                "title": "Terrazzo",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/005_terrazzo_tiles",
+                "slug": "/terrazzo-tiles"
+              },
+              {
+                "title": "Vintage",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/006_vintage_tiles",
+                "slug": "/vintage-tiles"
+              },
+              {
+                "title": "Wood Effect",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/007_wood_effect_tiles",
+                "slug": "/wood-effect-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Tiles by Colour",
+            "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_by_color",
+            "children": [
+              {
+                "title": "Beige",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_by_color/001_beige_tiles",
+                "slug": "/beige-tiles"
+              },
+              {
+                "title": "Black",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_by_color/002_black_tiles",
+                "slug": "/black-tiles"
+              },
+              {
+                "title": "Blue",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_by_color/003_blue_tiles",
+                "slug": "/blue-tiles"
+              },
+              {
+                "title": "Cream",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_by_color/004_cream_tiles",
+                "slug": "/cream-tiles"
+              },
+              {
+                "title": "Grey",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_by_color/005_grey_tiles",
+                "slug": "/grey-tiles"
+              },
+              {
+                "title": "Pink",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_by_color/006_pink_tiles",
+                "slug": "/pink-tiles"
+              },
+              {
+                "title": "White",
+                "_path": "/walls_and_floors/navigation/main/005_kitchen_tiles/003_by_color/007_white_tiles",
+                "slug": "/white-tiles"
+              }
+            ],
+            "slug": null
+          }
+        ],
+        "slug": "/kitchen-tiles",
+        "hasMegaMenu": true,
+        "banner": {
+          "image": "/images/content/walls_and_floors/navigation/main/kitchen.jpg",
+          "title": "Kitchen",
+          "link": "/plush-victorian-crackle-glaze-green-metro-tiles"
+        }
+      },
+      {
+        "title": "Outdoor",
+        "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles",
+        "children": [
+          {
+            "title": "Popular Tiles",
+            "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles",
+            "children": [
+              {
+                "title": "Anti-Slip",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/001_anti-slip_outdoor_tiles",
+                "slug": "/anti-slip-outdoor-tiles"
+              },
+              {
+                "title": "Concrete Effect",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/002_concrete_effect_outdoor_tiles",
+                "slug": "/concrete-effect-outdoor-tiles"
+              },
+              {
+                "title": "External Wall Tiles",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/003_external_wall_tiles",
+                "slug": "/external-wall-tiles"
+              },
+              {
+                "title": "Grey Paving Slabs",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/004_grey_paving_slabs",
+                "slug": "/grey-paving-slabs"
+              },
+              {
+                "title": "Outdoor",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/005_outdoor_porcelain_tiles",
+                "slug": "/outdoor-porcelain-tiles"
+              },
+              {
+                "title": "Outdoor Slate Tiles",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/006_outdoor_slate_tiles",
+                "slug": "/outdoor-slate-tiles"
+              },
+              {
+                "title": "Patio Tiles",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/007_patio_tiles",
+                "slug": "/patio-tiles"
+              },
+              {
+                "title": "Porcelain Paving",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/008_paving_slabs",
+                "slug": "/paving-slabs"
+              },
+              {
+                "title": "Stone Effect",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_popular_tiles/009_stone_effect_outdoor",
+                "slug": "/stone-effect-outdoor"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "&nbsp;",
+            "_path": "",
+            "children": [
+              {
+                "title": "Swimming Pool Tiles",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/001_swimming_pool_tiles",
+                "slug": "/swimming-pool-tiles"
+              },
+              {
+                "title": "Wood Effect",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/002_wood_effect_outdoor_tiles",
+                "slug": "/wood-effect-outdoor-tiles"
+              },
+              {
+                "title": "XL Paving Slabs",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/003_xl_paving_slabs",
+                "slug": "/xl-paving-slabs"
+              },
+              {
+                "title": "600x600 Paving Slabs",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/004_600x600_paving_slabs",
+                "slug": "/600x600-paving-slabs"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Kerb Appeal",
+            "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/003_kerb_appeal",
+            "children": [
+              {
+                "title": "Outdoor Mosaic Tiles",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/003_kerb_appeal/001_outdoor_mosaic_tiles",
+                "slug": "/outdoor-mosaic-tiles"
+              },
+              {
+                "title": "Path Tiles",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/003_kerb_appeal/002_path_tiles",
+                "slug": "/path-tiles"
+              },
+              {
+                "title": "Victorian Outdoor Tiles",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/003_kerb_appeal/003_victorian_outdoor_tiles",
+                "slug": "/victorian-outdoor-tiles"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Accessories",
+            "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/003_accessories",
+            "children": [
+              {
+                "title": "20mm Trims",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/003_accessories/001_20mm_paving_slab_trims",
+                "slug": "/20mm-paving-slab-trims"
+              },
+              {
+                "title": "Outdoor Fixing",
+                "_path": "/walls_and_floors/navigation/main/006_external_outdoor_tiles/003_accessories/002_tile_adhesive_and_grout/outdoor_fixing",
+                "slug": "/tile-adhesive-and-grout/outdoor-fixing"
+              }
+            ],
+            "slug": null
+          }
+        ],
+        "slug": "/external-outdoor-tiles",
+        "hasMegaMenu": true,
+        "backgroundColor": "#447E5B",
+        "textColor": "#ffffff",
+        "banner": {
+          "image": "/images/content/walls_and_floors/navigation/main/outdoor.jpg",
+          "title": "Outdoor",
+          "link": "/clifton-bone-60x60-20mm-outdoor-slab-tiles"
+        }
+      },
+      {
+        "title": "Adhesive & Grout",
+        "_path": "/walls_and_floors/navigation/main/007_tile_adhesive_and_grouts",
+        "slug": "/tile-adhesive-and-grouts"
+      },
+      {
+        "title": "Wall Panels",
+        "_path": "/walls_and_floors/navigation/main/008_wall_panels",
+        "backgroundColor": "#d13c0c",
+        "textColor": "#ffffff",
+        "children": [
+          {
+            "title": "Ranges",
+            "_path": "/walls_and_floors/navigation/main/008_wall_panels/001_ranges",
+            "children": [
+              {
+                "title": "Trepanel®",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/001_ranges/001_wall_panels/trepanel",
+                "slug": "/wall-panels/trepanel"
+              },
+              {
+                "title": "Trepanel Design®",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/001_ranges/002_wall_panels/trepanel_design",
+                "slug": "/wall-panels/trepanel-design"
+              },
+              {
+                "title": "Trepanel XL®",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/001_ranges/003_wall_panels/trepanel_xl",
+                "slug": "/wall-panels/trepanel-xl"
+              },
+              {
+                "title": "Trepanel Aqua®",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/001_ranges/004_wall_panels/trepanel_aqua",
+                "slug": "/wall-panels/trepanel-aqua"
+              },
+              {
+                "title": "Trepanel Lite®",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/001_ranges/005_wall_panels/trepanel_lite",
+                "slug": "/wall-panels/trepanel-lite"
+              },
+              {
+                "title": "Accessories",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/001_ranges/006_wall_panels/wall_panel_accessories",
+                "slug": "/wall-panels/wall-panel-accessories"
+              },
+              {
+                "title": "Wall Panel Lights",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/001_ranges/007_wall_panels/wall-panel-accessories/wall-panel-lights",
+                "slug": "/wall-panels/wall-panel-accessories/wall-panel-lights"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Colour",
+            "_path": "/walls_and_floors/navigation/main/008_wall_panels/002_colour",
+            "children": [
+              {
+                "title": "Grey",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/002_colour/001_wood_wall_panels/by_colour/grey_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-colour/grey-wood-wall-panels"
+              },
+              {
+                "title": "Natural Wood",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/002_colour/002_wood_wall_panels/by_colour/natural",
+                "slug": "/wood-wall-panels/by-colour/natural"
+              },
+              {
+                "title": "Black",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/002_colour/003_wood_wall_panels/by_colour/black",
+                "slug": "/wood-wall-panels/by-colour/black"
+              },
+              {
+                "title": "Light Wood",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/002_colour/004_wood_wall_panels/by_colour/light_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-colour/light-wood-wall-panels"
+              },
+              {
+                "title": "Dark Wood",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/002_colour/005_wood_wall_panels/by_colour/dark_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-colour/dark-wood-wall-panels"
+              },
+              {
+                "title": "Plain Colours",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/002_colour/006_wood_wall_panels/by_style/plain",
+                "slug": "/wood-wall-panels/by-style/plain"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Size",
+            "_path": "/walls_and_floors/navigation/main/008_wall_panels/003_size",
+            "children": [
+              {
+                "title": "Full Panel",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/003_size/001_wood_wall_panels/by_size/2400x600_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-size/2400x600-wood-wall-panels"
+              },
+              {
+                "title": "Half Panel",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/003_size/002_wood_wall_panels/by_size/1200x600_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-size/1200x600-wood-wall-panels"
+              },
+              {
+                "title": "Wide Slat Panels",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/003_size/003_wood_wall_panels/by_size/50mm_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-size/50mm-wood-wall-panels"
+              },
+              {
+                "title": "Square Panel",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/003_size/004_wood_wall_panels/by_size/600x600_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-size/600x600-wood-wall-panels"
+              },
+              {
+                "title": "XL Panels",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/003_size/005_wood_wall_panels/by_size/trepanel_xl",
+                "slug": "/wood-wall-panels/by-size/trepanel-xl"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Room",
+            "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room",
+            "children": [
+              {
+                "title": "Bathroom",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room/001_wall_panels/bathroom",
+                "slug": "/wall-panels/bathroom"
+              },
+              {
+                "title": "Shower Room",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room/002_wall_panels/trepanel_aqua_shower_panels",
+                "slug": "/wall-panels/trepanel-aqua-shower-panels"
+              },
+              {
+                "title": "Living Room",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room/003_wood_wall_panels/by_room/living_room_wall_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-room/living-room-wall-wood-wall-panels"
+              },
+              {
+                "title": "Bedroom",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room/004_wood_wall_panels/by_room/bedroom_wall_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-room/bedroom-wall-wood-wall-panels"
+              },
+              {
+                "title": "Kitchen",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room/005_wood_wall_panels/by_room/kitchen_wall_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-room/kitchen-wall-wood-wall-panels"
+              },
+              {
+                "title": "Media Wall",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room/006_media_wall",
+                "slug": "/media-wall"
+              },
+              {
+                "title": "Hallway",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room/007_wood_wall_panels/by_room/hallway_wall_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-room/hallway-wall-wood-wall-panels"
+              },
+              {
+                "title": "Office",
+                "_path": "/walls_and_floors/navigation/main/008_wall_panels/004_room/008_wood_wall_panels/by_room/office_wood_wall_panels",
+                "slug": "/wood-wall-panels/by-room/office-wood-wall-panels"
+              }
+            ],
+            "slug": null
+          }
+        ],
+        "slug": "/wall-panels",
+        "hasMegaMenu": true,
+        "banner": {
+          "image": "/images/content/walls_and_floors/navigation/main/wall-panels.jpg",
+          "title": "Wall Panels",
+          "link": "/wood-wall-panels"
+        }
+      },
+      {
+        "title": "Accessories & Tools",
+        "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools",
+        "children": [
+          {
+            "title": "Tile Cutters",
+            "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/001_tile_cutters",
+            "children": [
+              {
+                "title": "Cutting",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/001_tile_cutters/001_accessories_and_tools/manual_tile_cutters",
+                "slug": "/accessories-and-tools/manual-tile-cutters"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Tiling Tools",
+            "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/002_tiling_tools",
+            "children": [
+              {
+                "title": "Mixing Tools",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/002_tiling_tools/001_accessories_and_tools/mixing_tools",
+                "slug": "/accessories-and-tools/mixing-tools"
+              },
+              {
+                "title": "Safety Equipment",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/002_tiling_tools/002_accessories_and_tools/safety_equipment",
+                "slug": "/accessories-and-tools/safety-equipment"
+              },
+              {
+                "title": "Spacers And Wedges",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/002_tiling_tools/003_accessories_and_tools/spacers_and_wedges",
+                "slug": "/accessories-and-tools/spacers-and-wedges"
+              },
+              {
+                "title": "Sponges",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/002_tiling_tools/004_accessories_and_tools/sponges",
+                "slug": "/accessories-and-tools/sponges"
+              },
+              {
+                "title": "Trowels & Floats",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/002_tiling_tools/005_accessories_and_tools/trowels_and_floats",
+                "slug": "/accessories-and-tools/trowels-and-floats"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Preparation",
+            "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/003_preparation",
+            "children": [
+              {
+                "title": "Levelling Compounds",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/003_preparation/001_tile_preparation_sealants/levelling_compounds",
+                "slug": "/tile-preparation-sealants/levelling-compounds"
+              },
+              {
+                "title": "Matting",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/003_preparation/002_tile_preparation_sealants/matting_wall_floors",
+                "slug": "/tile-preparation-sealants/matting-wall-floors"
+              },
+              {
+                "title": "Primers",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/003_preparation/003_tile_preparation_sealants/primers",
+                "slug": "/tile-preparation-sealants/primers"
+              },
+              {
+                "title": "Tile Backer Boards",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/003_preparation/004_tile_preparation_sealants/construction_boards",
+                "slug": "/tile-preparation-sealants/construction-boards"
+              },
+              {
+                "title": "Underfloor Heating",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/003_preparation/005_underfloor_heating",
+                "slug": "/underfloor-heating"
+              },
+              {
+                "title": "Waterproofing",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/003_preparation/006_tile_preparation_sealants/waterproofing",
+                "slug": "/tile-preparation-sealants/waterproofing"
+              }
+            ],
+            "slug": null
+          },
+          {
+            "title": "Finishing",
+            "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/004_finishing",
+            "children": [
+              {
+                "title": "Cleaning Sealing & Aftercare",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/004_finishing/001_cleaning_and_maintenance_wf",
+                "slug": "/cleaning-and-maintenance-wf"
+              },
+              {
+                "title": "Silicones",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/004_finishing/002_tile_preparation_sealants/silicones",
+                "slug": "/tile-preparation-sealants/silicones"
+              },
+              {
+                "title": "Tile Trims",
+                "_path": "/walls_and_floors/navigation/main/009_accessories_and_tools/004_finishing/003_all_tile_trims",
+                "slug": "/all-tile-trims"
+              }
+            ],
+            "slug": null
+          }
+        ],
+        "slug": "/accessories-and-tools",
+        "hasMegaMenu": true,
+        "banner": {
+          "image": "/images/content/walls_and_floors/navigation/main/accessories-walls.jpg",
+          "title": "Accessories & Tools",
+          "link": "/accessories-and-tools"
+        }
+      },
+      {
+        "title": "New",
+        "_path": "/walls_and_floors/navigation/main/010_new_ranges",
+        "slug": "/new-ranges",
+        "backgroundColor": "#08968a",
+        "textColor": "#ffffff"
+      },
+      {
+        "title": "Winter Sale",
+        "_path": "/walls_and_floors/navigation/main/011_sales",
+        "slug": "/sales",
+        "backgroundColor": "#000000",
+        "textColor": "#ffffff"
+      },
+      {
+        "title": "Inspiration & Advice",
+        "_path": "/walls_and_floors/navigation/main/012_blog",
+        "slug": "/blog",
+        "backgroundColor": "#ECEBEB"
+      }
+    ]
+  }
+]
