@@ -1,0 +1,24 @@
+# content/navigation/mega-menu.yml
+categories:
+  - title: Products
+    columns:
+      - title: Featured
+        links:
+          - label: New Arrivals
+            to: /products/new
+          - label: Best Sellers
+            to: /products/best-sellers
+      - title: Categories
+        links:
+          - label: Category A
+            to: /products/category-a
+          - label: Category B
+            to: /products/category-b
+  - title: Solutions
+    columns:
+      - title: By Industry
+        links:
+          - label: Healthcare
+            to: /solutions/healthcare
+          - label: Finance
+            to: /solutions/finance
